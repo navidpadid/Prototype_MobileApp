@@ -1,4 +1,4 @@
-# Mobile Application (IOS/Android) Interactive Prototype
+# Mobile Application (iOS/Android) Interactive Prototype
 
 ## About
 
