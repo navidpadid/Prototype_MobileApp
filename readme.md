@@ -9,7 +9,9 @@ This appliaction prototype was part of my project for **E-Commerce** course.
 
 
 It was made with **proto.io**
+
 There are other resouces for this application such as: **Detailed Bussiness plan, Business model, App Workflow, etc.**
+
 since they were available in **persian**, i didn't upload them to git repository, but if anyone interested in documents, can drop me an email anytime!
 
 ## How to run?
