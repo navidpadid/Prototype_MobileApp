@@ -14,7 +14,7 @@ There are other resouces for this application such as: **Detailed Bussiness plan
 
 Since they were available in **persian**, i didn't upload them to git repository, but if anyone interested in documents, can drop me an email anytime!
 
-## How to run?
+## How to run the prototype?
 
 Just open **index.html** with a browser.
 
