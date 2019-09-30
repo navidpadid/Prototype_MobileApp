@@ -2,7 +2,7 @@
 
 ## About
 
-This appliaction was part of my project for **E-Commerce** course.
+This appliaction prototype was part of my project for **E-Commerce** course.
 
 
 ![](preview.gif)
